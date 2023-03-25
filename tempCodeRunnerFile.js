@@ -1,0 +1,1 @@
+await page.click('a[class="js-selected-navigation-item subnav-item"]');

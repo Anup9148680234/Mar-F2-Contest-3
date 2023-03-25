@@ -1,0 +1,223 @@
+{
+  "repositories": [
+    {
+      "User_name": "openai",
+      "title": "chatgpt-retrieval-plugin",
+      "description": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, \"infinite\" ctx_len, and free sentence embedding",
+      "url": "https://github.com//openai/chatgpt-retrieval-plugin",
+      "stars": "1,465",
+      "forks": "6,472",
+      "language": "Python"
+    },
+    {
+      "User_name": "BlinkDL",
+      "title": "RWKV-LM",
+      "description": "An editor made for programming with AI \ud83e",
+      "url": "https://github.com//BlinkDL/RWKV-LM",
+      "stars": "692",
+      "forks": "594",
+      "language": "Python"
+    },
+    {
+      "User_name": "getcursor",
+      "title": "cursor",
+      "description": "骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科",
+      "url": "https://github.com//getcursor/cursor",
+      "stars": "631",
+      "forks": "3,758",
+      "language": "TypeScript"
+    },
+    {
+      "User_name": "LC1332",
+      "title": "Chinese-alpaca-lora",
+      "description": "The missing GitHub Copilot Xcode Source Editor Extensio",
+      "url": "https://github.com//LC1332/Chinese-alpaca-lora",
+      "stars": "192",
+      "forks": "264",
+      "language": "Notebook"
+    },
+    {
+      "User_name": "intitni",
+      "title": "CopilotForXcode",
+      "description": "Untitled Goose Tool is a robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure Active Directory (AzureAD), Azure, and M365 environments",
+      "url": "https://github.com//intitni/CopilotForXcode",
+      "stars": "73",
+      "forks": "2,751",
+      "language": "Swift"
+    },
+    {
+      "User_name": "cisagov",
+      "title": "untitledgoosetool",
+      "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权",
+      "url": "https://github.com//cisagov/untitledgoosetool",
+      "stars": "108",
+      "forks": "152",
+      "language": "Python"
+    },
+    {
+      "User_name": "programthink",
+      "title": "zhao",
+      "description": "🦀 Small exercises to get you used to reading and writing Rust code",
+      "url": "https://github.com//programthink/zhao",
+      "stars": "150",
+      "forks": "613",
+      "language": "Python"
+    },
+    {
+      "User_name": "rust-lang",
+      "title": "rustlings",
+      "description": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source",
+      "url": "https://github.com//rust-lang/rustlings",
+      "stars": "187",
+      "forks": "39",
+      "language": "Rust"
+    },
+    {
+      "User_name": "BlinkDL",
+      "title": "ChatRWKV",
+      "description": "Port of Facebook's LLaMA model in C/C+",
+      "url": "https://github.com//BlinkDL/ChatRWKV",
+      "stars": "165",
+      "forks": "1,585",
+      "language": "Python"
+    },
+    {
+      "User_name": "ggerganov",
+      "title": "llama.cpp",
+      "description": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more",
+      "url": "https://github.com//ggerganov/llama.cpp",
+      "stars": "570",
+      "forks": "45",
+      "language": "C"
+    },
+    {
+      "User_name": "willwulfken",
+      "title": "MidJourney-Styles-and-Keywords-Reference",
+      "description": "GUI for ChatGPT AP",
+      "url": "https://github.com//willwulfken/MidJourney-Styles-and-Keywords-Reference",
+      "stars": "398",
+      "forks": "312",
+      "language": "Python"
+    },
+    {
+      "User_name": "GaiZhenbiao",
+      "title": "ChuanhuChatGPT",
+      "description": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API",
+      "url": "https://github.com//GaiZhenbiao/ChuanhuChatGPT",
+      "stars": "494",
+      "forks": "22",
+      "language": "Python"
+    },
+    {
+      "User_name": "nsarrazin",
+      "title": "serge",
+      "description": "⚡ Building applications with LLMs through composability ",
+      "url": "https://github.com//nsarrazin/serge",
+      "stars": "487",
+      "forks": "11,773",
+      "language": "Python"
+    },
+    {
+      "User_name": "hwchase17",
+      "title": "langchain",
+      "description": "An open-source ChatGPT UI",
+      "url": "https://github.com//hwchase17/langchain",
+      "stars": "645",
+      "forks": "2,686",
+      "language": "TypeScript"
+    },
+    {
+      "User_name": "mckaywrigley",
+      "title": "chatbot-ui",
+      "description": "This repo includes ChatGPT prompt curation to use ChatGPT better",
+      "url": "https://github.com//mckaywrigley/chatbot-ui",
+      "stars": "640",
+      "forks": "35,876",
+      "language": "HTML"
+    },
+    {
+      "User_name": "f",
+      "title": "awesome-chatgpt-prompts",
+      "description": "myGPTReader is a slack bot that can read any webpage, ebook, video(YouTube) or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel",
+      "url": "https://github.com//f/awesome-chatgpt-prompts",
+      "stars": "1,108",
+      "forks": "6,125",
+      "language": "Python"
+    },
+    {
+      "User_name": "madawei2699",
+      "title": "myGPTReader",
+      "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model",
+      "url": "https://github.com//madawei2699/myGPTReader",
+      "stars": "527",
+      "forks": "4,247",
+      "language": "JavaScript"
+    },
+    {
+      "User_name": "radi-cho",
+      "title": "awesome-gpt4",
+      "description": "Build your personal knowledge base with Trilium Note",
+      "url": "https://github.com//radi-cho/awesome-gpt4",
+      "stars": "88",
+      "forks": "253",
+      "language": "Swift"
+    },
+    {
+      "User_name": "zadam",
+      "title": "trilium",
+      "description": "程序员延寿指南 | A programmer's guide to live longe",
+      "url": "https://github.com//zadam/trilium",
+      "stars": "43",
+      "forks": "13,662",
+      "language": "TypeScript"
+    },
+    {
+      "User_name": "geekan",
+      "title": "HowToLiveLonger",
+      "description": "A very compact representation of an image placeholde",
+      "url": "https://github.com//geekan/HowToLiveLonger",
+      "stars": "20",
+      "forks": "1,795",
+      "language": "Notebook"
+    },
+    {
+      "User_name": "evanw",
+      "title": "thumbhash",
+      "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话",
+      "url": "https://github.com//evanw/thumbhash",
+      "stars": "173",
+      "forks": "5,865",
+      "language": "Python"
+    },
+    {
+      "User_name": "PlexPt",
+      "title": "awesome-chatgpt-prompts-zh",
+      "description": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... \ud83e",
+      "url": "https://github.com//PlexPt/awesome-chatgpt-prompts-zh",
+      "stars": "843",
+      "forks": "855"
+    },
+    {
+      "User_name": "t3dotgg",
+      "title": "chirp",
+      "description": "Inference code for LLaMA model",
+      "url": "https://github.com//t3dotgg/chirp",
+      "stars": "15",
+      "forks": "5,816"
+    },
+    {
+      "User_name": "labmlai",
+      "title": "annotated_deep_learning_paper_implementations",
+      "url": "https://github.com//labmlai/annotated_deep_learning_paper_implementations",
+      "stars": "225",
+      "forks": "721"
+    },
+    {
+      "User_name": "facebookresearch",
+      "title": "llama",
+      "url": "https://github.com//facebookresearch/llama",
+      "stars": "161",
+      "forks": "1,878"
+    }
+  ]
+}
