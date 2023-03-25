@@ -1,0 +1,153 @@
+{
+  "JavaScript_Developers": [
+    {
+      "Name_of_Developer": "atomik",
+      "Username_of_Developer": "lydell",
+      "Repo_Name": "tippyjs",
+      "Description": "Tooltip  popover  dropdown  and menu library"
+    },
+    {
+      "Name_of_Developer": "Lydel",
+      "Username_of_Developer": "zenorocha",
+      "Repo_Name": "eslint-plugin-simple-import-sort",
+      "Description": "Easy autofixable import sorting."
+    },
+    {
+      "Name_of_Developer": "Roch",
+      "Username_of_Developer": "adiwajshing",
+      "Repo_Name": "clipboard.js",
+      "Description": "✂️ Modern copy to clipboard. No Flash. Just 3kb gzipped 📋"
+    },
+    {
+      "Name_of_Developer": "Sing",
+      "Username_of_Developer": "Mottie",
+      "Repo_Name": "Baileys",
+      "Description": "Lightweight full-featured WhatsApp Web + Multi-Device API"
+    },
+    {
+      "Name_of_Developer": "Garriso",
+      "Username_of_Developer": "bcoe",
+      "Repo_Name": "GitHub-userscripts",
+      "Description": "Userscripts to add functionality to GitHub"
+    },
+    {
+      "Name_of_Developer": "Co",
+      "Username_of_Developer": "bfirsh",
+      "Repo_Name": "c8",
+      "Description": "output coverage reports using Node.js' built in coverage"
+    },
+    {
+      "Name_of_Developer": "Firshma",
+      "Username_of_Developer": "nelsonic",
+      "Repo_Name": "jsnes",
+      "Description": "A JavaScript NES emulator."
+    },
+    {
+      "Name_of_Developer": "Nelso",
+      "Username_of_Developer": "zeke",
+      "Repo_Name": "github-scraper",
+      "Description": "🕷 🕸 crawl GitHub web pages for insights we can't GET from the API ... 💡"
+    },
+    {
+      "Name_of_Developer": "Sikeliano",
+      "Username_of_Developer": "rvagg",
+      "Repo_Name": "docs",
+      "Description": "This is the open-source repo for docs.github.com."
+    },
+    {
+      "Name_of_Developer": "Vag",
+      "Username_of_Developer": "straker",
+      "Repo_Name": "github-webhook-handler",
+      "Description": "Node.js web handler / middleware for processing GitHub Webhooks"
+    },
+    {
+      "Name_of_Developer": "Lamber",
+      "Username_of_Developer": "LeeJim",
+      "Repo_Name": "html-tagged-template",
+      "Description": "Proposal to improve the DOM creation API so developers have a cleaner  simpler  and secure interface to DOM creation and manipulation."
+    },
+    {
+      "Name_of_Developer": "leejimqi",
+      "Username_of_Developer": "kentcdodds",
+      "Repo_Name": "HowToCookOnMiniprogram",
+      "Description": "程序员做菜指南 for Miniprogram，将程序员精神贯彻到底"
+    },
+    {
+      "Name_of_Developer": "Dodd",
+      "Username_of_Developer": "oliviertassinari",
+      "Repo_Name": "react-fundamentals",
+      "Description": "Material for my React Fundamentals Workshop"
+    },
+    {
+      "Name_of_Developer": "Tassinar",
+      "Username_of_Developer": "moaazsidat",
+      "Repo_Name": "react-swipeable-views",
+      "Description": "A React component for swipeable views. ❄️"
+    },
+    {
+      "Name_of_Developer": "Sida",
+      "Username_of_Developer": "auvipy",
+      "Repo_Name": "react-native-qrcode-scanner",
+      "Description": "A QR code scanner component for React Native."
+    },
+    {
+      "Name_of_Developer": "Uddi",
+      "Username_of_Developer": "szaimen",
+      "Repo_Name": "celery-flower",
+      "Description": "Under heavy development now: Real time Celery monitoring with ASGI 3.0+ django 3.2"
+    },
+    {
+      "Name_of_Developer": "L",
+      "Username_of_Developer": "domenic",
+      "Repo_Name": "Nextcloud-NAS-Guide",
+      "Description": "Nextcloud-NAS-Guide - Instructions how to set up a home server"
+    },
+    {
+      "Name_of_Developer": "Denicol",
+      "Username_of_Developer": "ikatyang",
+      "Repo_Name": "promises-unwrapping",
+      "Description": "The ES6 promises spec  as per September 2013 TC39 meeting"
+    },
+    {
+      "Name_of_Developer": "Ik",
+      "Username_of_Developer": "Rich-Harris",
+      "Repo_Name": "emoji-cheat-sheet",
+      "Description": "A markdown version emoji cheat sheet"
+    },
+    {
+      "Name_of_Developer": "Harri",
+      "Username_of_Developer": "darobin",
+      "Repo_Name": "degit",
+      "Description": "Straightforward project scaffolding"
+    },
+    {
+      "Name_of_Developer": "Berjo",
+      "Username_of_Developer": "diegomura",
+      "Repo_Name": "notion-backup",
+      "Description": "Simple command to backup a Notion workspace"
+    },
+    {
+      "Name_of_Developer": "Muracciol",
+      "Username_of_Developer": "timkpaine",
+      "Repo_Name": "react-pdf",
+      "Description": "📄 Create PDF files using React"
+    },
+    {
+      "Name_of_Developer": "Pain",
+      "Username_of_Developer": "btholt",
+      "Repo_Name": "jupyterlab_iframe",
+      "Description": "View html as an embedded iframe in JupyterLab"
+    },
+    {
+      "Name_of_Developer": "Hol",
+      "Username_of_Developer": "janl",
+      "Repo_Name": "complete-intro-to-react-v8",
+      "Description": "The Complete Intro to React  as taught by Brian Holt on Frontend Masters"
+    },
+    {
+      "Name_of_Developer": "Lehnard",
+      "Repo_Name": "mustache.js",
+      "Description": "Minimal templating with {{mustaches}} in JavaScript"
+    }
+  ]
+}
